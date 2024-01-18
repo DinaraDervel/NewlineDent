@@ -1,1 +1,2 @@
 # NewlineDent
+Figma design - <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FB1gHlKqCDGAfapMsU0tjUJ%2F%25D0%259B%25D1%258D%25D0%25BD%25D0%25B4%25D0%25B8%25D0%25BD%25D0%25B3-%25D1%2581%25D1%2582%25D0%25BE%25D0%25BC%25D0%25B0%25D1%2582%25D0%25BE%25D0%25BB%25D0%25BE%25D0%25B3%25D0%25B8%25D1%258F%3Ftype%3Ddesign%26node-id%3D748%253A3054%26mode%3Ddev" allowfullscreen></iframe>
